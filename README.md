@@ -19,10 +19,10 @@ At the end of the workshop you can integrate different AI components in your app
 Everyone who want to learn about AI.
 
 ## Pre-requisites
-- [Azure Pass](https://www.microsoftazurepass.com/) or [Microsoft Azure Subscription](https://azure.microsoft.com/en-gb/free/?WT.mc_id=gaic-github-heboelma)
+- [Azure Pass](https://www.microsoftazurepass.com/) or [Microsoft Azure Subscription](https://azure.microsoft.com/free/?WT.mc_id=aiml-0000-heboelma)
 - Laptop with a modern web browser (Google Chrome, Microsoft Edge)
 - Postman, API Development Environment - [available on Windows, Linux and macOS](https://www.getpostman.com/)
-- Azure CLI Installed [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/?WT.mc_id=aiapril-blog-heboelma&view=gaic-github-latest) | [tutorial on MS Docs](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?WT.mc_id=gaic-github-heboelma&view=azure-cli-latest) here.
+- Azure CLI Installed [Azure CLI](https://docs.microsoft.com/cli/azure/?WT.mc_id=aiml-0000-heboelma&view=gaic-github-latest) | [tutorial on MS Docs](https://docs.microsoft.com/cli/azure/install-azure-cli?WT.mc_id=aiml-0000-heboelma&view=azure-cli-latest) here.
 
 > All demos and content have been tested on a Windows PC, however all options should run from macOS and Linux machines as well. Please provide information via an issue or pull request if you have feedback on other operating systems.
 
